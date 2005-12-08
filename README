@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1424
+
+Adds a Dtd menu. Dtd as in docbook and xhtml. e.g
+          <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+	      "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd"&gt;
+
+it currently features 6 dtd's (xml docbook (2). HTML (3), XHTM(1))
+The provided skeletons depends  on xml.vim for its expansion. 
+If you want to add your own DTD entries look in the file for instructions how to do that
